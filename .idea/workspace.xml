@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e76cc304-5fd0-431d-9da1-4130b18da1a0" name="Changes" comment="2nd Commit -- Needs Backspace Issue Resolved">
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/MDM-Mini-Project-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MDM-Mini-Project-1/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
